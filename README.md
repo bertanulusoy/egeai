@@ -6,7 +6,7 @@ Some sub-aims of this repository is;
 
 - creating a custom pipeline for machine learning
 - implement basic machine learning algorithms
-- implementing deep learning algorithms both with Tensorflow and PyTorch
+- implementing deep learning algorithms both with Tensorflow and PyTorch \
   ...
 
 The class plan of the machine learning project
@@ -15,7 +15,7 @@ The class plan of the machine learning project
 2. Score calculation
 3. Visualization
 4. Training
-   ...
+5. ...
 
 sources of inspiration:
 
