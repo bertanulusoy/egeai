@@ -1,11 +1,13 @@
-# egeai
+# ege ai
 
 The general purpose of this repository is to research & implement AI algorithms.
 
 Some sub-aims of this repository is;
 
 - creating a custom pipeline for machine learning
+- implement basic machine learning algorithms
 - implementing deep learning algorithms both with Tensorflow and PyTorch
+  ...
 
 The class plan of the machine learning project
 
@@ -13,6 +15,7 @@ The class plan of the machine learning project
 2. Score calculation
 3. Visualization
 4. Training
+   ...
 
 sources of inspiration:
 
